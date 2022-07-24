@@ -1,0 +1,22 @@
+{
+  "name": "javascript-test-practices",
+  "version": "1.0.0",
+  "description": "Javascript with test and practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IselaReyesPerdomo94/javascript-test-practices.git"
+  },
+  "author": "Isela Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IselaReyesPerdomo94/javascript-test-practices/issues"
+  },
+  "homepage": "https://github.com/IselaReyesPerdomo94/javascript-test-practices#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
